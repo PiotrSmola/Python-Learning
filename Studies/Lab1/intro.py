@@ -142,6 +142,7 @@ words.insert(3, "and easy")
 print(words)
 
 letters = ['q', 'w', 'e', 'r', 't', 'y']
+print(dir(letters))
 if (letters.index('w') == True):
     print("Znaleziono w")
 # Jak obsłużyć nieodnalezienie elementu, aby nie kończyło się to błędem i przerwaniem skryptu?
