@@ -1,0 +1,4 @@
+Wynik odejmowania liczb 4 i 6 wynosi -2
+Wynik odejmowania liczb 4 i 6 wynosi -2
+Wynik dodawania liczb 1 i 7 wynosi 8
+Wynik odejmowania liczb 99 i 42 wynosi 57
